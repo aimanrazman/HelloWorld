@@ -7,7 +7,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text>Aiman sangatlah hebat!</Text>
         <Text>Owner : Aiman</Text>
-        <Text>Collab: Mohamad Nurhakim Bin Hassan 1621573</Text>
+        <Text>Collab: Mohamad Nurhakim Bin Hassan-1621573</Text>
       </View>
     );
   }
